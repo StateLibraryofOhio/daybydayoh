@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+User-agent: AdsBot-Google
+Disallow: /
+Disallow: /misc
+Disallow: /sites
+https://daybydayoh.org/sitemap.xml
