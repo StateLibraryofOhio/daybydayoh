@@ -5131,7 +5131,7 @@ fieldset[disabled] .node-type-monthly-content .region-highlighted .block-menu ul
 }
 /* Footer and Bottom Styles */
 .region-footer {
-  background: url('../../../../default/files/images/daybydayohio-foot1-bg.png') repeat;
+  background: #323232 url('../../../../default/files/images/daybydayohio-foot1-bg.png') repeat;
   box-shadow: inset 0 5px 10px 0 #000;
   padding-bottom: 1em;
   color: #fff;
@@ -5166,7 +5166,8 @@ fieldset[disabled] .node-type-monthly-content .region-highlighted .block-menu ul
   margin: 0 6px 6px 0;
 }
 .region-bottom {
-  background: url('../../../../default/files/images/daybydayohio-foot2-bg.png') repeat;
+  background: #383838 url('../../../../default/files/images/daybydayohio-foot2-bg.png') repeat;
+  background-color: #000;
   box-shadow: #000 0 15px 15px 15px;
   padding: 1em 0 4em 0;
   color: #fff;
