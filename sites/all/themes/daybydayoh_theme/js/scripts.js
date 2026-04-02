@@ -32,10 +32,10 @@
     var bgImg = Math.floor((Math.random() * 2) + 1);
 
     if(stringInArray(monthURL, months)) {
-        $(".sub-nav-wrap").backstretch("/sites/all/themes/daybydayoh_theme/images/months/bg-" + monthURL + ".jpg");
-        $(".header").backstretch("/sites/all/themes/daybydayoh_theme/images/months/head-bg-" + monthURL + ".png");
+        $(".sub-nav-wrap").backstretch("/sites/all/themes/daybydayoh_theme/images/months/bg-" + monthURL + ".jpg").find("img").attr({ alt: "", "aria-hidden": "true" });
+        $(".header").backstretch("/sites/all/themes/daybydayoh_theme/images/months/head-bg-" + monthURL + ".png").find("img").attr({ alt: "", "aria-hidden": "true" });
     } else {
-        $(".sub-nav-wrap").backstretch("/sites/all/themes/daybydayoh_theme/images/months/bg-cover" + bgImg +".jpg");
+        $(".sub-nav-wrap").backstretch("/sites/all/themes/daybydayoh_theme/images/months/bg-cover" + bgImg +".jpg").find("img").attr({ alt: "", "aria-hidden": "true" };
     }
 
     // Responsive image map for Places page

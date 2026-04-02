@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd ">
     <url>
         <loc>https://daybydayoh.org/january/january-1</loc>
     </url>
@@ -1134,7 +1136,7 @@
     <url>
         <loc>https://daybydayoh.org/about</loc>
     </url>
-     <url>
+    <url>
         <loc>https://daybydayoh.org/be-clean-and-well</loc>
     </url>
     <url>
