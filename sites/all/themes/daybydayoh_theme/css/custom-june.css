@@ -11,7 +11,7 @@
   background: #ffffff;
   text-decoration: none !important;
   padding: 2px 5px;
-   border: 1px solid #fef3e9;
+  border: 1px solid #fef3e9;
   border-radius: 3px;
   display: inline-block;
   margin: 2px;
@@ -2690,7 +2690,7 @@ fieldset[disabled] .btn-success.active {
 .open > .dropdown-toggle.btn-info {
   color: #ffffff;
   background-color: #024f4f;
-  border-color: #24f4f;
+  border-color: #24f4f4;
 }
 .btn-info:active,
 .btn-info.active,
@@ -5285,8 +5285,6 @@ fieldset[disabled] .node-type-monthly-content .region-highlighted .block-menu ul
 #navigation .btn-toggle {
   display: none;
 }
-}
-}
 #navigation .navbar-brand {
   display: inline-block;
   padding: 10px 0 0 15px;
@@ -5838,7 +5836,7 @@ fieldset[disabled] #block-custom-search-blocks-1 .form-type-checkboxes .form-che
   user-select: none;
   color: #ffffff;
   background-color: #024f4f;
-  border-color: #35373;
+  border-color: #357373;
 }
 #block-custom-search-blocks-1 #edit-submit--2:focus,
 #block-custom-search-blocks-1 #edit-submit--2:active:focus,
