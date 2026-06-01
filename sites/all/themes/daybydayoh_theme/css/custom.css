@@ -5203,6 +5203,23 @@ fieldset[disabled] .node-type-monthly-content .region-highlighted .block-menu ul
   background-color: #00203e;
 }
 /* Add Custom Styles */
+#sunset-banner {
+  background-color: #fff3cd;
+  border-bottom: 2px solid #ffc107;
+  padding: 15px 0;
+  text-align: center;
+}
+
+#sunset-banner p {
+  margin: 0;
+  font-size: 16px;
+  color: #333;
+}
+
+#sunset-banner a {
+  font-weight: bold;
+  text-decoration: underline;
+}
 /* Navbar Style */
 .navbar {
   border: 0;
